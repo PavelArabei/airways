@@ -1,10 +1,7 @@
-1.
-
-Task: [airways](https://github.com/rolling-scopes-school/tasks/blob/0e38ef561d25d54462f452a43c8bccb3a6ebc45b/tasks/airways.md)
-
+1.Task: [airways](https://github.com/rolling-scopes-school/tasks/blob/0e38ef561d25d54462f452a43c8bccb3a6ebc45b/tasks/airways.md).
 2. Screenshot:
    ![image](https://github.com/aleshkinpaul/airways/assets/86744568/179f4e4d-dcfb-4deb-a825-af942dec00ca)
-3. Deploy: [gh-pages](https://aleshkinpaul.github.io/airways/)
+3. Deploy: [airways-project](https://airways-project.netlify.app/)
 4. Done 28.05.2023 / deadline 29.05.2023
 5. Score: 690 / 700
 
